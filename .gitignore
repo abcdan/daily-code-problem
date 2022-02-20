@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+*
+!/**/
+!*.*
+
 .vscode/
 
 # Compiled Object files
